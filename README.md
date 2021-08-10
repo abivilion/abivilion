@@ -41,7 +41,7 @@
 
 
 <br><br><br>
-<br>
+<br><br><br>
 
 ## Connect With Me 🤝👨‍💼
 [<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  style = "color:#d4af37"/>][linkedin]
