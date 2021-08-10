@@ -5,7 +5,7 @@
 
 <img src="https://cdn.dribbble.com/users/2017910/screenshots/5102683/ai_trends_dribbble_shot.gif" height=25%>
 
-## Area Of Work (Main)
+## Working Domain(Main)
  - Speech Synthesis <b>and</b> Recognition 🗣
  - Natural Language Processing (NLP) <b>and</b> Natural Language Understand (NLU) 💬
  - Digital (Audio) Signal Processing and Filtering.📶
