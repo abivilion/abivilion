@@ -1,20 +1,20 @@
-# Hello 🧠👀,
+### Hello 🧠👀,
+<br>
 
 ## I'm Machine Learning Enthusiast ⚙
 
 <img src="https://cdn.dribbble.com/users/2017910/screenshots/5102683/ai_trends_dribbble_shot.gif" height=25%>
 
-### Area Of Work (Main)
- - Speech Synthesis <b>and</b> Recognition 
- - Natural Language Processing (NLP) <b>and</b> Natural Language Understand (NLU) 
- - Digital (Audio) Signal Processing and Filtering.
- - Custom/Computer Vision
+## Area Of Work (Main)
+ - Speech Synthesis <b>and</b> Recognition 🗣
+ - Natural Language Processing (NLP) <b>and</b> Natural Language Understand (NLU) 💬
+ - Digital (Audio) Signal Processing and Filtering.📶
+ - Custom/Computer Vision 🎦
 <br>
 
-### Other Interests 
-- [![Website](https://img.shields.io/static/v1?label=N E U R O S C I E N C E  &message= 🧠&color=red???style=for-the-badge&logo=appveyor)](https://www.medicalnewstoday.com/articles/248680)
+## Other Interests 
  -  <a href="https://www.medicalnewstoday.com/articles/248680" target="_blank">Neuroscience🧠</a>
- -  <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">Astronomy🚀👩‍🚀</a>
+ -  <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">Astronomy🚀�🛰</a>
 <br>
 <br>
 
@@ -36,6 +36,20 @@
 
 <a href="https://research.google.com/colaboratory/" target="_blank"><img align="right" alt="Colaboratory" height ="42px" src="https://static.javatpoint.com/tutorial/google-colab/images/google-colab.png"></a>
 
+<a href="https://www.gnu.org/software/octave/index" target="_blank"><img align="right" alt="Octave" height ="42px" src="https://www.gnu.org/software/octave/img/octave-logo.svg"></a>
+<a href="https://www.image-line.com/" target="_blank"><img align="right" alt="FL Studio" height ="42px" src="https://www.image-line.com/wp-content/themes/intracto/build/images/fl-fruit-logo.png"></a>
+
+
+<br><br><br>
+<br>
+
+## Connect With Me 🤝👨‍💼
+[<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  style = "color:#d4af37"/>][linkedin]
+
+[<img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" style = "color:#d4af37"/>][instagram]
+
+[<img align="left" alt="Twitter" width="35px" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" style = "color:#d4af37"/>][twitter]
+
 
 <!--
 **abivilion/abivilion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,4 +66,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[website]: https://shubhambhardwaj.live/
+[twitter]: https://twitter.com/abivilion
+[instagram]: https://www.instagram.com/abivilion/
+[linkedin]: https://www.linkedin.com/in/ayushbh/
