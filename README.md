@@ -38,6 +38,7 @@
 
 <a href="https://www.gnu.org/software/octave/index" target="_blank"><img align="right" alt="Octave" height ="42px" src="https://www.gnu.org/software/octave/img/octave-logo.svg"></a>
 <a href="https://www.image-line.com/" target="_blank"><img align="right" alt="FL Studio" height ="42px" src="https://www.image-line.com/wp-content/themes/intracto/build/images/fl-fruit-logo.png"></a>
+<a href="https://www.mysql.com/" target="_blank"><img align="right" alt="SQL" height ="42px" src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?w=600&ssl=1"></a>
 
 
 <br><br><br>
