@@ -1,6 +1,8 @@
 ### Hello 🧠👀,
 <br>
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=abivilion.visitor-badge)
+<a href="https://github.com/abivilion"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/abivilion?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
+    
 ## I'm Machine Learning Enthusiast ⚙
 
 <img src="https://cdn.dribbble.com/users/2017910/screenshots/5102683/ai_trends_dribbble_shot.gif" height=25%>
@@ -44,12 +46,32 @@
 <br><br><br>
 <br><br><br>
 
+## 📊 Github stats
+
+<!-- <details>  -->
+<!--   <summary>💻 GitHub Profile Stats</summary> -->
+  <br/>
+    <a><img alt="Abivilion Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abivilion&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=003566&title_color=ffd60a&icon_color=F8D866" /></a>
+  <a><img alt="Abivilion Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abivilion&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=003566&title_color=ffd60a&icon_color=F8D866" /></a>
+  <br/>
+<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+<!-- </details> -->
+
+<a><img alt="Abivilion Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abivilion&bg_color=003566&color=ffd60a&line=aacc00&point=FFFFFF&hide_border=true" /></a> 
+
+<br>
+<br>
+
+
+
 ## Connect With Me 🤝👨‍💼
 [<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  style = "color:#d4af37"/>][linkedin]
 
 [<img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" style = "color:#d4af37"/>][instagram]
 
 [<img align="left" alt="Twitter" width="35px" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" style = "color:#d4af37"/>][twitter]
+
+[<img align="left" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"  style = "color:#d4af37"/>][telegram]
 
 
 <!--
@@ -67,6 +89,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[telegram]: https://t.me/abivilion/
 [twitter]: https://twitter.com/abivilion
 [instagram]: https://www.instagram.com/abivilion/
 [linkedin]: https://www.linkedin.com/in/ayushbh/
