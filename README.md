@@ -1,22 +1,34 @@
-### Hello 🧠👀,
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm <b>Ayush Bhardwaj (or abivilion) </b> 
+</h1>
 <br>
-<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=abivilion.visitor-badge) -->
-<a href="https://github.com/abivilion"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/abivilion?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
-    
-## I'm Machine Learning Enthusiast ⚙
 
-<img src="https://cdn.dribbble.com/users/2017910/screenshots/5102683/ai_trends_dribbble_shot.gif" height=25%>
+<h3 align="center">I'm ardent Machine Learning Student</h3>
+ 
+ <img src="https://cdn.dribbble.com/users/2017910/screenshots/5102683/ai_trends_dribbble_shot.gif" height=25%>
+ <!-- typing style -->
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=2D3192&center=true&vCenter=true&width=700&height=100&lines=Hi%2C+Hello;I'm+Ayush+Bhardwaj;I'm+Machine+Learning+and+Data+Science+Student"</a>
+</p>
+    
+
+<br>
+<br><br>
+    <br><br><br><br>
+
+<!-- <img src="https://cdn.dribbble.com/users/2017910/screenshots/5102683/ai_trends_dribbble_shot.gif" height=25%> -->
 
 ## Working Domain(Main)
- - Speech Synthesis <b>and</b> Recognition 🗣
- - Natural Language Processing (NLP) <b>and</b> Natural Language Understand (NLU) 💬
- - Digital (Audio) Signal Processing and Filtering.📶
- - Custom/Computer Vision 🎦
+ - <a href="https://www.sciencedirect.com/topics/computer-science/speech-synthesis" target="_blank">Speech Synthesis <b>and</b> Recognition 🗣
+ - <a href="https://www.expert.ai/blog/natural-language-understanding-different-nlp/" target="_blank">Natural Language Processing (NLP) <b>and</b> Natural Language Understand (NLU) 💬
+ - <a href="https://en.wikipedia.org/wiki/Digital_signal_processing#:~:text=Digital%20signal%20processing%20(DSP)%20is,variety%20of%20signal%20processing%20operations.&text=Digital%20signal%20processing%20and%20analog%20signal%20processing%20are%20subfields%20of%20signal%20processing.n" target="_blank">Digital (Audio) Signal Processing and Filtering.📶
+ - <a href="https://www.ibm.com/topics/computer-vision#:~:text=Computer%20vision%20is%20a%20field,recommendations%20based%20on%20that%20information." target="_blank">Custom/Computer Vision 🎦
+ - <a href="https://www.interaction-design.org/literature/topics/web-design" target="_blank">Web Design🎨</a>
 <br>
 
 ## Other Interests 
  -  <a href="https://www.medicalnewstoday.com/articles/248680" target="_blank">Neuroscience🧠</a>
  -  <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">Astronomy🚀�🛰</a>
+ -  <a href="https://en.wikipedia.org/wiki/Web_development" target="_blank">Web Development(FrontEnd)</a>
 <br>
 <br>
 
@@ -45,20 +57,33 @@
 
 <br><br><br>
 <br><br><br>
-
+    
+<p align="center"> 
+    
+   
 ## 📊 Github stats
 
-<!-- <details>  -->
-<!--   <summary>💻 GitHub Profile Stats</summary> -->
+</p> 
   <br/>
-    <a><img alt="Abivilion Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abivilion&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=003566&title_color=ffd60a&icon_color=F8D866" /></a>
-  <a><img alt="Abivilion Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abivilion&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=003566&title_color=ffd60a&icon_color=F8D866" /></a>
+    
+<p align="center">     
+    <a><img alt="Abivilion Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abivilion&show_icons=true&count_private=true&theme=react&hide_border=true&ivilion_color=003566&title_color=ffd60a&icon_color=F8D866" /></a></p> 
+    
+<p align="center">     
+  <a><img alt="Abivilion Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abivilion&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=003566&title_color=ffd60a&icon_color=F8D866" /></a></p> 
   <br/>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 <!-- </details> -->
+<p align="center"> 
+    
+<a align="center"><img alt="Abivilion Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abivilion&bg_color=003566&color=ffd60a&line=aacc00&point=FFFFFF&hide_border=true" /></a> </p> 
 
-<a><img alt="Abivilion Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abivilion&bg_color=003566&color=ffd60a&line=aacc00&point=FFFFFF&hide_border=true" /></a> 
-
+    
+<p align="center"> 
+  <b>Profile Views<br>
+  <img src="https://profile-counter.glitch.me/abivilion/count.svg" /><br>
+  <br>
+</p>   
 <br>
 <br>
 
