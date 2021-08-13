@@ -70,7 +70,7 @@
     <a><img alt="Abivilion Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abivilion&show_icons=true&count_private=true&theme=react&hide_border=true&ivilion_color=003566&title_color=ffd60a&icon_color=F8D866" /></a></p> 
     
 <p align="center">     
-  <a><img alt="Abivilion Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abivilion&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=003566&title_color=ffd60a&icon_color=F8D866" /></a></p> 
+  <a><img alt="Abivilion Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abivilion&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=181818&title_color=ffd60a&icon_color=F8D866" /></a></p> 
   <br/>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 <!-- </details> -->
