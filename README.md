@@ -67,7 +67,7 @@
   <br/>
     
 <p align="center">     
-    <a><img alt="Abivilion Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abivilion&show_icons=true&count_private=true&theme=react&hide_border=true&ivilion_color=003566&title_color=ffd60a&icon_color=F8D866" /></a></p> 
+    <a><img alt="Abivilion Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abivilion&show_icons=true&count_private=true&theme=react&hide_border=true&abivilion_color=003566&title_color=ffd60a&icon_color=F8D866" /></a></p> 
     
 <p align="center">     
   <a><img alt="Abivilion Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abivilion&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0F1842&title_color=ffd60a&icon_color=F8D866" /></a></p> 
@@ -75,7 +75,10 @@
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 <!-- </details> -->
 <p align="center"> 
-    
+ 
+<p align="center">
+    <a href="https://github.com/abivilion"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abivilion&theme=vue-dark&hide_border=true&currStreakNum=ffd60a&background=0F1842&border=FBFF02&stroke=FFFFF8&ring=7BFF0F&fire=D6DD0F&sideNums=ffd60a" alt="abi" height="192px"/></a>
+	</p> 
 <a align="center"><img alt="Abivilion Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abivilion&bg_color=003566&color=ffd60a&line=aacc00&point=FFFFFF&hide_border=true" /></a> </p> 
 
     
