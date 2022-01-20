@@ -2,7 +2,7 @@
 </h1>
 <br>
 
-<h3 align="center">I'm ardent Machine Learning Student</h3>
+<h3 align="center">I'm currently working on Web Projects</h3>
  
  <img src="https://cdn.dribbble.com/users/2017910/screenshots/5102683/ai_trends_dribbble_shot.gif" height=25%>
  <!-- typing style -->
