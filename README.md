@@ -18,17 +18,15 @@
 <!-- <img src="https://cdn.dribbble.com/users/2017910/screenshots/5102683/ai_trends_dribbble_shot.gif" height=25%> -->
 
 ## Working Domain(Main)
- - <a href="https://www.sciencedirect.com/topics/computer-science/speech-synthesis" target="_blank">Speech Synthesis <b>and</b> Recognition 🗣
- - <a href="https://www.expert.ai/blog/natural-language-understanding-different-nlp/" target="_blank">Natural Language Processing (NLP) <b>and</b> Natural Language Understand (NLU) 💬
- - <a href="https://en.wikipedia.org/wiki/Digital_signal_processing#:~:text=Digital%20signal%20processing%20(DSP)%20is,variety%20of%20signal%20processing%20operations.&text=Digital%20signal%20processing%20and%20analog%20signal%20processing%20are%20subfields%20of%20signal%20processing.n" target="_blank">Digital (Audio) Signal Processing and Filtering.📶
- - <a href="https://www.ibm.com/topics/computer-vision#:~:text=Computer%20vision%20is%20a%20field,recommendations%20based%20on%20that%20information." target="_blank">Custom/Computer Vision 🎦
- - <a href="https://www.interaction-design.org/literature/topics/web-design" target="_blank">Web Design🎨</a>
-<br>
-
+ - Full Stack Development
+ - FrontEnd Development 
+ - Backend Development
+ - Web Design🎨
+	
 ## Other Interests 
  -  <a href="https://www.medicalnewstoday.com/articles/248680" target="_blank">Neuroscience🧠</a>
  -  <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">Astronomy🚀�🛰</a>
- -  <a href="https://en.wikipedia.org/wiki/Phonology#:~:text=Phonology%20is%20often%20distinguished%20from,across%20languages%20to%20encode%20meaning." target="_blank">Phonology🗣🔊 </a>
+ -  <a href="https://en.wikipedia.org/wiki/Musicology#:~:text=Musicology%20(from%20Greek,acoustical%2C%20neurological%2C%20computational)" target="_blank">Musicology🗣🔊 </a>
 <br>
 <br>
 
