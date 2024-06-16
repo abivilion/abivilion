@@ -91,14 +91,10 @@
 
 
 ## Connect With Me 🤝👨‍💼
-[<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  style = "color:#d4af37"/>][linkedin]
 
 [<img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" style = "color:#d4af37"/>][instagram]
 
-[<img align="left" alt="Twitter" width="35px" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" style = "color:#d4af37"/>][twitter]
-
-[<img align="left" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"  style = "color:#d4af37"/>][telegram]
-
+Hence, You can't.
 
 <!--
 **abivilion/abivilion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
